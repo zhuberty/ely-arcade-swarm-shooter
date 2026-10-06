@@ -1,0 +1,14 @@
+bin/
+obj/
+build_files/
+external/
+Makefile
+*.make
+.vs/
+*.sln
+*.vcxproj*
+compile_commands.json
+
+# Assets
+assets/images
+assets/audio
