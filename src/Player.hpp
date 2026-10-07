@@ -15,7 +15,7 @@ public:
     Player(Texture2D* tex);
 
     void Draw() const;
-    void Update(Vector2 moveDir, float delta);
+    void Update(float delta);
 
     Vector2 GetPosition() const;
     void SetPosition(Vector2 position);
